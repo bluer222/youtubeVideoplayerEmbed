@@ -1,7 +1,7 @@
 # Youtube Video Player Embed
 
 ## About:
-I was having an issue where outube videos only play the first 10 seconds(might be because of adblock.) 
+I was having an issue where youtube videos only play the first 10 seconds(might be because of adblock.) 
 The thing is, youtube embed links still worked fine.
 So this extension will replace the video player on youtube.com with the embed player 
 
@@ -13,4 +13,4 @@ So this extension will replace the video player on youtube.com with the embed pl
 
 ## Use:
 The extension will do its thing without interaction
-You know it's working beacuse normally videos will autoplay and this breaks that
+After a few seconds Youtube notices the player is missing and tries to insert it again so after a few seconds the player will reset but it seems like it only happens once.

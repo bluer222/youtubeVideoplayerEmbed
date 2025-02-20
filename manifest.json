@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Youtube Video Player Embed",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Replaces the video player at youtube.com with the player used for embeded youtube videos",
     "permissions": ["activeTab", "scripting"],
     "content_scripts": [
