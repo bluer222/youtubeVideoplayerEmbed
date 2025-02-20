@@ -12,5 +12,6 @@ So this extension will replace the video player on youtube.com with the embed pl
 4. load the folder using the "load unpacked" button at the top left
 
 ## Use:
-The extension will do its thing without interaction
+The extension will do its thing without interaction.
+
 After a few seconds Youtube notices the player is missing and tries to insert it again so after a few seconds the player will reset but it seems like it only happens once.
